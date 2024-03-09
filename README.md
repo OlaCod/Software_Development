@@ -1,2 +1,2 @@
 # Software-Development
-This repository showcases my expertise in web development
+This repository showcases my expertise in software development
